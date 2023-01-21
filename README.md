@@ -23,16 +23,16 @@ See [TODO List](#TODO) to know if the feature is ready or has problems.
 - Some other customizations.
 
 ## Screenshots
-Main form with light theme.
+Main form with light theme.<br/>
 ![Light](/Screenshots/Light.jpg)
 
-Main form with dark theme.
+Main form with dark theme.<br/>
 ![Dark](/Screenshots/Dark.jpg)
 
-Month times form with dark theme.
+Month times form with dark theme.<br/>
 ![Month](/Screenshots/Month.jpg)
 
-Notification form with dark theme.
+Notification form with dark theme.<br/>
 ![Notification](/Screenshots/Notification.jpg)
 
 ## TODO
